@@ -1,7 +1,7 @@
 C# ve .NET kullanılarak Excel dosyalarından veri okuyup SQL Server veritabanına kaydeden, ayrıca veritabanındaki verileri Excel'e aktaran bir masaüstü uygulamasıdır.
 
 Projeyi Çalıştırmak için
-SQL Server` üzerinde `Db_PROJELER` isimli veritabanını oluşturun
+SQL Server üzerinde Db_PROJELER isimli veritabanını oluşturun
  CREATE TABLE Personel (
        PersonelNo INT PRIMARY KEY,
        Ad NVARCHAR(50),
