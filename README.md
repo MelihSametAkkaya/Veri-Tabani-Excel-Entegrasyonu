@@ -10,6 +10,8 @@ SQL Server` üzerinde `Db_PROJELER` isimli veritabanını oluşturun
        Sehir NVARCHAR(50)
    );
 
+   Oluşturulan tabloya kayıt eklemeyi unutmayın
+
    Bağlantı yolunu kendi SQL Server adresinize göre düzenleyin
    SqlConnection dbBaglanti = new SqlConnection(
     @"Data Source=YOUR_SERVER_NAME;Initial Catalog=Db_PROJELER;Integrated Security=True;Trust Server Certificate=True"
