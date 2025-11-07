@@ -16,4 +16,4 @@ SQL Server` üzerinde `Db_PROJELER` isimli veritabanını oluşturun
 
   Excelden okunan verileri kaydetmek için
     C Klasöründe ProjeExcel adında dosya oluşturun içine OrnekKayitlar.xlsx i yükleyin
-);
+
